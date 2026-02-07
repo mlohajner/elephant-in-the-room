@@ -1,5 +1,8 @@
-# elephant-in-the-room
-A collection of snapshots from different systems illustrating allocation patterns near the beginning of storage devices. Images are provided as-is, without annotations or labels, to show real-world observations.
+# elephant is in the room
+These are snapshots from different systems, provided as-is,
+without annotations; while they do not show the allocation bitmap explicitly,
+they are statistically correlated with the most frequently used blocks and
+block groups across the LBA space.
 
 In both qualitative and quantitative analyses of this data,
 we may debate methods or exact measurements, *but* 
